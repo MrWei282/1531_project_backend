@@ -1,0 +1,6 @@
+Flask==1.0.2
+Flask_Cors==3.0.10
+PyJWT==2.3.0
+pytest==3.10.1
+requests==2.21.0
+Werkzeug==0.14.1
